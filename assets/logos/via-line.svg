@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 100" fill="none" role="img" aria-label="VIA-Linie">
+  <!-- The canonical VIA Line: a hand-drawn gradient connector. In use, wrap
+       with class="atr-via-line" and add two <text> labels at the ends
+       (x≈60 and x≈540). One path, swap the labels. See guidelines/brand-via-line.html. -->
+  <defs>
+    <linearGradient id="atr-via-gradient" gradientUnits="userSpaceOnUse" x1="120" y1="50" x2="480" y2="50">
+      <stop offset="0" stop-color="#000064"/>
+      <stop offset="0.55" stop-color="#0a5ae1"/>
+      <stop offset="1" stop-color="#d4f2f5"/>
+    </linearGradient>
+  </defs>
+  <path d="M120 50 C 165 50, 178 24, 232 24 L 288 24 C 332 24, 346 50, 392 50 C 430 50, 444 30, 480 30"
+        stroke="url(#atr-via-gradient)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
