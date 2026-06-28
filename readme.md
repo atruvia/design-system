@@ -261,3 +261,27 @@ bereitgestellt.
    exakte Verlaufs-Stops für einen 1:1-Abgleich vorgeben.
 2. Einige optionale Heritage-Galeriebilder sind noch nicht eingebunden – siehe
    `assets/brand-assets.md`.
+
+---
+
+## 7. Lizenz
+
+**Proprietär – kein Open Source.** © 2026 Atruvia AG. Alle Rechte vorbehalten.
+
+Dieses Design-System und sämtliche enthaltenen Materialien (Markenassets, Logos,
+VIA-Line, Schriften, Icons, Farben, Fotografie, Tokens, Komponenten, Templates
+und Dokumentation) sind vertrauliches und geschütztes Eigentum der Atruvia AG.
+Die Nutzung ist **ausschließlich** gestattet,
+
+- wenn sie durch eine **berechtigte Person** erfolgt (aktuelle*r Mitarbeiter*in
+  der Atruvia AG bzw. unter schriftlichem Vertrag mit Atruvia tätige Personen),
+  **und**
+- wenn sie einem **Atruvia-Zweck** dient (Produkte, Services und Markenauftritte
+  der Atruvia AG bzw. der Genossenschaftlichen FinanzGruppe im offiziellen
+  Auftrag).
+
+Jede Nutzung in privaten, freiberuflichen, kunden- oder fremdbezogenen Projekten
+ist untersagt. Eingebundene Drittanbieter-Materialien (z. B. Hanken Grotesk,
+IBM Plex Mono, Lucide, React) unterliegen weiterhin ihren eigenen Lizenzen.
+
+Vollständige Bedingungen siehe [`LICENSE`](./LICENSE).
